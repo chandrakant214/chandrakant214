@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandrakant214
-- 👀 I’m interested in Tech and digital world
-- 🌱 I’m currently learning MS Azure
-- 💞️ I’m looking to collaborate on Cloud Computing
+- 👀 I’m interested in Tech and Data Analytics/Science
+- 🌱 I’m currently learning Python, SQL , Advanced Excel, Power BI, Tableu& Gen AI.
+- 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me 
 
 <!---
